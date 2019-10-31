@@ -26,4 +26,4 @@ All but the last of these apply to communications via Direct Messages as well, n
 
 Admins aren't keen on spending their time monitoring or policing activity in the channels. But if we witness violations of this CoC or if such behavior is brought to our attention, we will respond as described above. 
 
-If you behavior in violation of this CoC is directed at you, please reach out to one of the admins directly: @levinotik @dk @dridus @tpflug @rickasaurus @reedcopsey @fixplz
+If behavior in violation of this CoC is directed at you, please reach out to one of the admins directly: @levinotik @dk @dridus @tpflug @rickasaurus @reedcopsey @fixplz
